@@ -6,6 +6,7 @@ GitHub Japan
 How's that :ship: container?
 
 GitHub Japanのオフィスです。ぜひ遊びに来てください。
+Here's the [website](http://github.co.jp/)
 
 
 ![Today's class](https://cloud.githubusercontent.com/assets/676836/8154885/aceafefa-1379-11e5-9598-c2f3661aa9d0.jpg)

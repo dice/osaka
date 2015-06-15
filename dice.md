@@ -5,7 +5,7 @@ GitHub Japan
 
 How's that :ship: container?
 
-GitHub Japanのオフィスです。ぜひ遊びに来てください。
+GitHub Japanの[オフィス](http://github.co.jp/)です。ぜひ遊びに来てください。
 Here's the [website](http://github.co.jp/)
 
 
